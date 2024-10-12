@@ -5,7 +5,7 @@
 
 - I’m currently working on **FarjamERP**
 
-- 👨‍💻 All of my projects are available at [javdanfar.ir](javdanfar.ir)
+- 👨‍💻 All of my projects are available at [https://javdanfar.ir/](https://javdanfar.ir/)
 
 - 📫 How to reach me **Javdanfar@outlook.com**
 
